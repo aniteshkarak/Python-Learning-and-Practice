@@ -1,4 +1,3 @@
-# Input string
 s = input("Enter a string: ")
 
 print("\nMenu")

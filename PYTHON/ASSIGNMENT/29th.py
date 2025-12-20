@@ -1,4 +1,3 @@
-# Given tuple
 t1 = (1, 2, 5, 7, 9, 2, 4, 6, 8, 10)
 
 # a) Print contents in two separate halves
